@@ -1,0 +1,23 @@
+.background {
+  width: 85%;
+  height: 450px;
+  margin: 2rem auto;
+  background-image: url('images/mountain.jpg');
+  background-size: cover;
+  background-position: 50%;
+  border-radius: 4px;
+}
+
+h2 {
+  font-size: 7rem;
+  background-image: url('images/mountain.jpg');
+  background-size: cover;
+  background-position: 50%;
+  -webkit-text-fill-color: transparent;
+  text-transform: uppercase;
+  -webkit-background-clip: text;
+  font-weight: 900;
+  color: black;
+  margin: 2rem auto;
+  margin-left: 100px;
+}
